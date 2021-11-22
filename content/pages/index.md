@@ -313,7 +313,7 @@ sections:
       together
     feature:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/Frame 1520 1.svg
       altText: Hero section image
     styles:
       self:
@@ -484,7 +484,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: '700'
@@ -500,7 +503,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: '700'
@@ -516,7 +522,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: '700'
@@ -532,7 +541,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: '700'

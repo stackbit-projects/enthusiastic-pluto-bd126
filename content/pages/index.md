@@ -102,6 +102,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderWidth: 0
+        borderRadius: x-large
       title:
         fontWeight: '700'
         fontStyle: normal
